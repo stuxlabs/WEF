@@ -1,0 +1,6 @@
+__pycache__/
+*.svg
+figures/
+aws_model.py
+results*
+.figures
