@@ -1,4 +1,4 @@
-# WiFi Penetration Testing LLM Agent Framework
+# WiFi Exploitation Framework
 
 A modular research framework for evaluating Large Language Model (LLM) agents on WiFi penetration testing tasks. 
 
