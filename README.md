@@ -1,6 +1,6 @@
 # WiFi Penetration Testing LLM Agent Framework
 
-A modular research framework for evaluating Large Language Model (LLM) agents on WiFi penetration testing tasks. This codebase accompanies our AAAI 2026 paper submission.
+A modular research framework for evaluating Large Language Model (LLM) agents on WiFi penetration testing tasks. 
 
 ## Overview
 
@@ -218,10 +218,6 @@ The framework is intended solely for:
 ## License
 
 This research code is provided for academic purposes only.
-
-## Contact
-
-For questions about the methodology or framework design, please contact the authors through the paper submission system.
 
 ---
 
